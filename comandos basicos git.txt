@@ -1,4 +1,7 @@
 cd: Entrar de carpetas
 cd ..: Salir de carpetas
 git clone "url de github": Copia carpeta github a carpeta de equipo
-git status
+git status: comparacion entre las modificaciones locales y online en github
+git add .:adicionar todos los cambios
+git commit -m "mensaje de identificacion/descripcion de cambios": creación de etiqueta del cambio
+git push: envía los cambios a github
