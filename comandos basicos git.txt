@@ -1,0 +1,4 @@
+cd: Entrar de carpetas
+cd ..: Salir de carpetas
+git clone "url de github": Copia carpeta github a carpeta de equipo
+git status
